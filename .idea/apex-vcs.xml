@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/distinct/NumPair.java" />
+      <option name="path" value="/src/main/java/com/averageCombiner/NumPair.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/distinct/Map.java" />
+      <option name="path" value="/src/main/java/com/averageCombiner/Map.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/distinct/Reduce.java" />
+      <option name="path" value="/src/main/java/com/averageCombiner/Reduce.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/com/distinct/Main.java" />
+      <option name="path" value="/src/main/java/com/averageCombiner/Main.java" />
+    </index-move-record>
+  </component>
+</project>
